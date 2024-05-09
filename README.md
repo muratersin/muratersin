@@ -4,7 +4,7 @@ I'm Murat.
 
 I'm a coder (I call myself with this title) and I'm not yet a superstar in the league of software development, but I can be a great team player on the road to championship. Beside this, I like to drawing, :beer:, :fried_shrimp: and every genre of movie :movie_camera:.
 
-- 📫 How to reach me: muraterin.dev@gmail.com
+- 📫 How to reach me: muratersin.dev@gmail.com
 
 <!--
 **muratersin/muratersin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
